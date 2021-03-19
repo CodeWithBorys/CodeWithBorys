@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeWithBorys
+- 👋 Hi, I’m Borys Leshchuk
 - 👀 I’m interested in web programming, running and reading
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on real-life projects
